@@ -1,0 +1,62 @@
+[
+    {
+        "position": 1,
+        "team": "Mercedes",
+        "points": 613.5,
+        "team_detail_url": "https://www.formula1.com/../../en/results/2021/team/Mercedes"
+    },
+    {
+        "position": 2,
+        "team": "Red Bull Racing Honda",
+        "points": 585.5,
+        "team_detail_url": "https://www.formula1.com/../../en/results/2021/team/Red-Bull-Racing-Honda"
+    },
+    {
+        "position": 3,
+        "team": "Ferrari",
+        "points": 323.5,
+        "team_detail_url": "https://www.formula1.com/../../en/results/2021/team/Ferrari"
+    },
+    {
+        "position": 4,
+        "team": "McLaren Mercedes",
+        "points": 275.0,
+        "team_detail_url": "https://www.formula1.com/../../en/results/2021/team/McLaren-Mercedes"
+    },
+    {
+        "position": 5,
+        "team": "Alpine Renault",
+        "points": 155.0,
+        "team_detail_url": "https://www.formula1.com/../../en/results/2021/team/Alpine-Renault"
+    },
+    {
+        "position": 6,
+        "team": "AlphaTauri Honda",
+        "points": 142.0,
+        "team_detail_url": "https://www.formula1.com/../../en/results/2021/team/AlphaTauri-Honda"
+    },
+    {
+        "position": 7,
+        "team": "Aston Martin Mercedes",
+        "points": 77.0,
+        "team_detail_url": "https://www.formula1.com/../../en/results/2021/team/Aston-Martin-Mercedes"
+    },
+    {
+        "position": 8,
+        "team": "Williams Mercedes",
+        "points": 23.0,
+        "team_detail_url": "https://www.formula1.com/../../en/results/2021/team/Williams-Mercedes"
+    },
+    {
+        "position": 9,
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": 13.0,
+        "team_detail_url": "https://www.formula1.com/../../en/results/2021/team/Alfa-Romeo-Racing-Ferrari"
+    },
+    {
+        "position": 10,
+        "team": "Haas Ferrari",
+        "points": 0.0,
+        "team_detail_url": "https://www.formula1.com/../../en/results/2021/team/Haas-Ferrari"
+    }
+]

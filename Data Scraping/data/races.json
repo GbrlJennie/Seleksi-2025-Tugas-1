@@ -1,0 +1,200 @@
+[
+    {
+        "grand_prix": "Bahrain",
+        "date": "2021-03-28",
+        "winner": "Lewis Hamilton",
+        "team": "Mercedes",
+        "laps": 56,
+        "time": "1:32:03.897",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1064/bahrain/race-result"
+    },
+    {
+        "grand_prix": "Emilia-Romagna",
+        "date": "2021-04-18",
+        "winner": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "laps": 63,
+        "time": "2:02:34.598",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1065/emilia-romagna/race-result"
+    },
+    {
+        "grand_prix": "Portugal",
+        "date": "2021-05-02",
+        "winner": "Lewis Hamilton",
+        "team": "Mercedes",
+        "laps": 66,
+        "time": "1:34:31.421",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1066/portugal/race-result"
+    },
+    {
+        "grand_prix": "Spain",
+        "date": "2021-05-09",
+        "winner": "Lewis Hamilton",
+        "team": "Mercedes",
+        "laps": 66,
+        "time": "1:33:07.680",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1086/spain/race-result"
+    },
+    {
+        "grand_prix": "Monaco",
+        "date": "2021-05-23",
+        "winner": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "laps": 78,
+        "time": "1:38:56.820",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1067/monaco/race-result"
+    },
+    {
+        "grand_prix": "Azerbaijan",
+        "date": "2021-06-06",
+        "winner": "Sergio Perez",
+        "team": "Red Bull Racing Honda",
+        "laps": 51,
+        "time": "2:13:36.410",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1068/azerbaijan/race-result"
+    },
+    {
+        "grand_prix": "France",
+        "date": "2021-06-20",
+        "winner": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "laps": 53,
+        "time": "1:27:25.770",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1070/france/race-result"
+    },
+    {
+        "grand_prix": "Styria",
+        "date": "2021-06-27",
+        "winner": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "laps": 71,
+        "time": "1:22:18.925",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1092/styria/race-result"
+    },
+    {
+        "grand_prix": "Austria",
+        "date": "2021-07-04",
+        "winner": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "laps": 71,
+        "time": "1:23:54.543",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1071/austria/race-result"
+    },
+    {
+        "grand_prix": "Great Britain",
+        "date": "2021-07-18",
+        "winner": "Lewis Hamilton",
+        "team": "Mercedes",
+        "laps": 52,
+        "time": "1:58:23.284",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1072/great-britain/race-result"
+    },
+    {
+        "grand_prix": "Hungary",
+        "date": "2021-08-01",
+        "winner": "Esteban Ocon",
+        "team": "Alpine Renault",
+        "laps": 70,
+        "time": "2:04:43.199",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1073/hungary/race-result"
+    },
+    {
+        "grand_prix": "Belgium",
+        "date": "2021-08-29",
+        "winner": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "laps": 1,
+        "time": "3:27.071",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1074/belgium/race-result"
+    },
+    {
+        "grand_prix": "Netherlands",
+        "date": "2021-09-05",
+        "winner": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "laps": 72,
+        "time": "1:30:05.395",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1075/netherlands/race-result"
+    },
+    {
+        "grand_prix": "Italy",
+        "date": "2021-09-12",
+        "winner": "Daniel Ricciardo",
+        "team": "McLaren Mercedes",
+        "laps": 53,
+        "time": "1:21:54.365",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1076/italy/race-result"
+    },
+    {
+        "grand_prix": "Russia",
+        "date": "2021-09-26",
+        "winner": "Lewis Hamilton",
+        "team": "Mercedes",
+        "laps": 53,
+        "time": "1:30:41.001",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1077/russia/race-result"
+    },
+    {
+        "grand_prix": "Turkey",
+        "date": "2021-10-10",
+        "winner": "Valtteri Bottas",
+        "team": "Mercedes",
+        "laps": 58,
+        "time": "1:31:04.103",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1078/turkey/race-result"
+    },
+    {
+        "grand_prix": "United States",
+        "date": "2021-10-24",
+        "winner": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "laps": 56,
+        "time": "1:34:36.552",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1102/united-states/race-result"
+    },
+    {
+        "grand_prix": "Mexico",
+        "date": "2021-11-07",
+        "winner": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "laps": 71,
+        "time": "1:38:39.086",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1103/mexico/race-result"
+    },
+    {
+        "grand_prix": "Brazil",
+        "date": "2021-11-14",
+        "winner": "Lewis Hamilton",
+        "team": "Mercedes",
+        "laps": 71,
+        "time": "1:32:22.851",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1104/brazil/race-result"
+    },
+    {
+        "grand_prix": "Qatar",
+        "date": "2021-11-21",
+        "winner": "Lewis Hamilton",
+        "team": "Mercedes",
+        "laps": 57,
+        "time": "1:24:28.471",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1105/qatar/race-result"
+    },
+    {
+        "grand_prix": "Saudi Arabia",
+        "date": "2021-12-05",
+        "winner": "Lewis Hamilton",
+        "team": "Mercedes",
+        "laps": 50,
+        "time": "2:06:15.118",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1106/saudi-arabia/race-result"
+    },
+    {
+        "grand_prix": "Abu Dhabi",
+        "date": "2021-12-12",
+        "winner": "Max Verstappen",
+        "team": "Red Bull Racing Honda",
+        "laps": 58,
+        "time": "1:30:17.345",
+        "detail_url": "https://www.formula1.com/../../en/results/2021/races/1107/abu-dhabi/race-result"
+    }
+]
