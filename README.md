@@ -12,7 +12,7 @@
   <br>
 </h2>
 Nama: Gabriela Jennifer Sandy
-NIM: 18223092
+<br> NIM: 18223092
   <br>
 
 ## Deskripsi
